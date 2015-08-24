@@ -1,0 +1,1 @@
+API para mostrar a solução de todos os erros existentes na programação, para que você possa adicionar a URL da API + a mensagem de erro para que ele leve para um link com a solução. Para ser adicionado na hora do DEGUB!
