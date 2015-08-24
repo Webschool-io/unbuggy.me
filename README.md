@@ -10,3 +10,6 @@ Como as mensagens de erro na programação são sempre as mesmas, mudando apenas
 Bom como sabemos o Stack Overflow tem muitas dessas respostas então podemos fazer tanto uma pesquisa, utilizando a msg de erro como busca, ou criarmos um sisteminha simples parecido com ele. E toda vez que você tiver um erro irá olhar na API a resposta, caso não exista você pode criar a solução quando conseguir resolver seu problema.
 
 Poderíamos até utilizar o github para que cada erro fosse um arquivo em Markdown explicando a solução e o sistema precisaria apenas buscar pela API do Github nesse repositório, deixando assim aberto para que qualquer um possa utilizar as mesmas soluções. 
+
+# Protótipo client-side : 
+https://gist.github.com/guisouza/83b415f898b9bd60f080
